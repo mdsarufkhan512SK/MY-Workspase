@@ -1,3 +1,4 @@
+#77 Python Polymorphism 
 class Friendname:
     def __init__(self,Name,Age,Roll,Dep):
     self.Name = Name
