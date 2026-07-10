@@ -1,10 +1,10 @@
 #77 Python Polymorphism 
 class Friendname:
     def __init__(self,Name,Age,Roll,Dep):
-    self.Name = Name
-    self.Age = Age 
-    self.Roll = Roll
-    self.Dep = Dep
+     self.Name = Name
+     self.Age = Age 
+     self.Roll = Roll
+     self.Dep = Dep
 
 
 
